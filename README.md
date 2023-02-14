@@ -15,6 +15,6 @@
 <li>Super Vector Regressor</li>
 </ul>
 <p dir="auto">Dataset del TRM:&nbsp;<a href="https://www.kaggle.com/datasets/alonsocopete/trm-dolar-cop-colombia">https://www.kaggle.com/datasets/alonsocopete/trm-dolar-cop-colombia</a></p>
-<p dir="auto">Presentacion Proyecto en Youtube:&nbsp;</p>
+<p dir="auto">Presentacion Proyecto en Youtube:&nbsp;<a href="https://youtu.be/pWp5Q4u8hZ0">https:https://youtu.be/pWp5Q4u8hZ0</a></p>
 <p dir="auto">Aplicaremos tambien Redes neuronales con el fin de&nbsp;generalizar mejor que los modelos estad&iacute;sticos m&aacute;s simples, lo que significa que pueden hacer predicciones precisas en un rango m&aacute;s amplio de valores.&nbsp;un factor importante en nuestro proyecto ya que las&nbsp;causas que afectan la tasa pueden cambiar con el tiempo y un modelo que se generaliza mejor puede adaptarse con una mayor rapidez y eficiencia a estos cambios.</p>
 <p dir="auto">&nbsp;</p>
